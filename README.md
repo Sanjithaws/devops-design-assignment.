@@ -50,6 +50,3 @@
 
 
 
-- [x] Diagram uploaded (`diagram.png` or `diagram.pdf`)
-- [x] README.md with explanations
-- [x] Covers UI, API, DB, CI/CD
